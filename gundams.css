@@ -1,0 +1,113 @@
+div{
+	margin-left: 5px;
+	width: 800px;
+	height: 600px;
+	position: relative;
+	font-family: 'Arima Madurai', cursive;
+}
+h1{
+	font-size: 30px;
+	margin-bottom: 0;
+}
+
+hr{
+	float: left;
+	width: 100px;
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.gundams{
+	float: left;
+	
+}
+
+.oso-gris{
+	background-image: url("oso-gris.jpg");
+	background-size: 100%;
+    float: left;
+    margin: 50px 20px 40px 0; 
+    padding-left:0;
+    width: 200px;
+    height: 200px;
+    border-radius: 3%;
+}
+
+.oso-guitarra{
+	background-image: url("oso-guitarra.jpg");
+	float: left;
+	margin: 50px 20px 40px 20px;
+	width: 200px;
+	height: 200px;
+	border-radius: 3%;
+}
+
+.oso-rosa{
+	background-image: url("oso-rosa.jpg");
+	float: left;
+	margin: 50px 20px 40px 20px;
+	width: 200px;
+	height: 200px;
+	border-radius: 3%;
+}
+
+.oso-tambor{
+	background-image: url("oso-tambor.jpg");
+	float: left;
+	margin: 0 20px 20px 0;
+	width: 200px;
+	height: 200px;
+	border-radius: 3%;
+}
+
+.sailor-azul{
+	background-image: url("sailor-azul.jpg");
+	float: left;
+	margin: 0 20px 20px 20px;
+	width: 200px;
+	height: 200px;
+	border-radius: 3%;
+}
+
+.sailor-violeta{
+	background-image: url("sailor-violeta.jpg");
+	float: left;
+	margin: 0 20px 20px;
+	width: 200px;
+	height: 200px;
+	border-radius: 3%;
+}
+
+.name{
+	padding-top: 150px;
+    padding-right: 10px;
+    text-align: right;
+    color: #F5FFFA;
+	font-weight: bold;
+}
+
+
+.oso-gris:hover{
+	opacity: 0.75;
+	cursor: pointer;
+}
+.oso-guitarra:hover{
+	opacity: 0.75;
+	cursor: pointer;
+}
+.oso-rosa:hover{
+	opacity: 0.75;
+	cursor: pointer;
+}
+.oso-tambor:hover{
+	opacity: 0.75;
+	cursor: pointer;
+}
+.sailor-azul:hover{
+	opacity: 0.75;
+	cursor: pointer;
+}
+.sailor-violeta:hover{
+	opacity: 0.75;
+	cursor: pointer;
+}
